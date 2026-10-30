@@ -1,0 +1,16 @@
+C:\Users\dougv\Desktop\Analise e Desenvolvimento de Sistemas\2 Semestre\Programação Orientada a Objetos\AULA9- Entrega\FecapStudy\FecapStudy\bin\Debug\net8.0-windows\FecapStudy.exe
+C:\Users\dougv\Desktop\Analise e Desenvolvimento de Sistemas\2 Semestre\Programação Orientada a Objetos\AULA9- Entrega\FecapStudy\FecapStudy\bin\Debug\net8.0-windows\FecapStudy.deps.json
+C:\Users\dougv\Desktop\Analise e Desenvolvimento de Sistemas\2 Semestre\Programação Orientada a Objetos\AULA9- Entrega\FecapStudy\FecapStudy\bin\Debug\net8.0-windows\FecapStudy.runtimeconfig.json
+C:\Users\dougv\Desktop\Analise e Desenvolvimento de Sistemas\2 Semestre\Programação Orientada a Objetos\AULA9- Entrega\FecapStudy\FecapStudy\bin\Debug\net8.0-windows\FecapStudy.dll
+C:\Users\dougv\Desktop\Analise e Desenvolvimento de Sistemas\2 Semestre\Programação Orientada a Objetos\AULA9- Entrega\FecapStudy\FecapStudy\bin\Debug\net8.0-windows\FecapStudy.pdb
+C:\Users\dougv\Desktop\Analise e Desenvolvimento de Sistemas\2 Semestre\Programação Orientada a Objetos\AULA9- Entrega\FecapStudy\FecapStudy\obj\Debug\net8.0-windows\FecapStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougv\Desktop\Analise e Desenvolvimento de Sistemas\2 Semestre\Programação Orientada a Objetos\AULA9- Entrega\FecapStudy\FecapStudy\obj\Debug\net8.0-windows\FecapStudy.AssemblyInfoInputs.cache
+C:\Users\dougv\Desktop\Analise e Desenvolvimento de Sistemas\2 Semestre\Programação Orientada a Objetos\AULA9- Entrega\FecapStudy\FecapStudy\obj\Debug\net8.0-windows\FecapStudy.AssemblyInfo.cs
+C:\Users\dougv\Desktop\Analise e Desenvolvimento de Sistemas\2 Semestre\Programação Orientada a Objetos\AULA9- Entrega\FecapStudy\FecapStudy\obj\Debug\net8.0-windows\FecapStudy.csproj.CoreCompileInputs.cache
+C:\Users\dougv\Desktop\Analise e Desenvolvimento de Sistemas\2 Semestre\Programação Orientada a Objetos\AULA9- Entrega\FecapStudy\FecapStudy\obj\Debug\net8.0-windows\FecapStudy.dll
+C:\Users\dougv\Desktop\Analise e Desenvolvimento de Sistemas\2 Semestre\Programação Orientada a Objetos\AULA9- Entrega\FecapStudy\FecapStudy\obj\Debug\net8.0-windows\refint\FecapStudy.dll
+C:\Users\dougv\Desktop\Analise e Desenvolvimento de Sistemas\2 Semestre\Programação Orientada a Objetos\AULA9- Entrega\FecapStudy\FecapStudy\obj\Debug\net8.0-windows\FecapStudy.pdb
+C:\Users\dougv\Desktop\Analise e Desenvolvimento de Sistemas\2 Semestre\Programação Orientada a Objetos\AULA9- Entrega\FecapStudy\FecapStudy\obj\Debug\net8.0-windows\FecapStudy.genruntimeconfig.cache
+C:\Users\dougv\Desktop\Analise e Desenvolvimento de Sistemas\2 Semestre\Programação Orientada a Objetos\AULA9- Entrega\FecapStudy\FecapStudy\obj\Debug\net8.0-windows\ref\FecapStudy.dll
+C:\Users\dougv\Desktop\Analise e Desenvolvimento de Sistemas\2 Semestre\Programação Orientada a Objetos\AULA9- Entrega\FecapStudy\FecapStudy\obj\Debug\net8.0-windows\FecapStudy.MainForm.resources
+C:\Users\dougv\Desktop\Analise e Desenvolvimento de Sistemas\2 Semestre\Programação Orientada a Objetos\AULA9- Entrega\FecapStudy\FecapStudy\obj\Debug\net8.0-windows\FecapStudy.csproj.GenerateResource.cache
